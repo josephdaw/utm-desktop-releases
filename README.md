@@ -1,16 +1,16 @@
 # UTM Desktop Releases
 
-[![Build Windows](https://github.com/josephdaw/utm-desktop/actions/workflows/build-windows.yml/badge.svg)](https://github.com/josephdaw/utm-desktop/actions/workflows/build-windows.yml)
-[![Build macOS](https://github.com/josephdaw/utm-desktop/actions/workflows/build-macos.yml/badge.svg)](https://github.com/josephdaw/utm-desktop/actions/workflows/build-macos.yml)
-[![Build Linux](https://github.com/josephdaw/utm-desktop/actions/workflows/build-linux.yml/badge.svg)](https://github.com/josephdaw/utm-desktop/actions/workflows/build-linux.yml)
-
 [![GitHub Release](https://img.shields.io/github/v/release/josephdaw/utm-desktop-releases)](https://github.com/josephdaw/utm-desktop-releases/releases/latest)
-[![GitHub Downloads](https://img.shields.io/github/downloads/josephdaw/utm-desktop-releases/total)](https://github.com/josephdaw/utm-desktop-releases/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date/josephdaw/utm-desktop-releases)](https://github.com/josephdaw/utm-desktop-releases/releases/latest)
+[![GitHub Downloads](https://img.shields.io/github/downloads/josephdaw/utm-desktop-releases/total)](https://github.com/josephdaw/utm-desktop-releases/releases)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+[![Build Windows](https://github.com/josephdaw/utm-desktop/actions/workflows/build-windows.yml/badge.svg)](https://github.com/josephdaw/utm-desktop/actions/workflows/build-windows.yml)
+[![Build macOS](https://github.com/josephdaw/utm-desktop/actions/workflows/build-macos.yml/badge.svg)](https://github.com/josephdaw/utm-desktop/actions/workflows/build-macos.yml)
+[![Build Linux](https://github.com/josephdaw/utm-desktop/actions/workflows/build-linux.yml/badge.svg)](https://github.com/josephdaw/utm-desktop/actions/workflows/build-linux.yml)
 
 Download the latest version of UTM Desktop from the [Releases](https://github.com/josephdaw/utm-desktop-releases/releases) page.
 
