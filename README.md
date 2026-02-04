@@ -7,7 +7,6 @@
 [![GitHub Release](https://img.shields.io/github/v/release/josephdaw/utm-desktop-releases)](https://github.com/josephdaw/utm-desktop-releases/releases/latest)
 [![GitHub Downloads](https://img.shields.io/github/downloads/josephdaw/utm-desktop-releases/total)](https://github.com/josephdaw/utm-desktop-releases/releases)
 [![GitHub Release Date](https://img.shields.io/github/release-date/josephdaw/utm-desktop-releases)](https://github.com/josephdaw/utm-desktop-releases/releases/latest)
-[![License](https://img.shields.io/github/license/josephdaw/utm-desktop-releases)](LICENSE)
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white)
