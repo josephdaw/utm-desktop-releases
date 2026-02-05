@@ -22,7 +22,7 @@ Download the latest version of UTM Desktop from the [Releases](https://github.co
 2. Open the `.dmg` and drag UTM Desktop to your Applications folder
 3. **Important:** The app is not yet signed with an Apple Developer certificate. On first launch:
    - macOS will show a warning that it "cannot verify the developer"
-   - Go to **System Settings → Privacy & Security**
+   - Go to **System Settings > Privacy & Security**
    - Scroll down and find "UTM Desktop was blocked"
    - Click **Open Anyway**
    - The app will now run normally
@@ -32,6 +32,31 @@ Download the latest version of UTM Desktop from the [Releases](https://github.co
 1. Download the `.exe` file from the latest release
 2. Run the installer and follow the prompts
 3. Windows may show a SmartScreen warning - click "More info" then "Run anyway"
+
+## Uninstalling
+
+### macOS
+
+1. Quit UTM Desktop if running
+2. Drag `UTM Desktop.app` from `/Applications` to Trash
+3. (Optional) Remove app data:
+   ```bash
+   rm -rf ~/Library/Application\ Support/com.josephdaw.utm-desktop
+   ```
+
+### Windows
+
+1. Open **Settings > Apps > Installed apps**
+2. Find "UTM Desktop" and click **Uninstall**
+
+Or via Control Panel:
+1. Open **Control Panel > Programs > Uninstall a program**
+2. Find "UTM Desktop" and click **Uninstall**
+
+To remove app data (optional):
+```
+%APPDATA%\com.josephdaw.utm-desktop
+```
 
 ## Update Channels
 
